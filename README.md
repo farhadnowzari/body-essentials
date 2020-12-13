@@ -1,7 +1,7 @@
 # Body Essentials
 This document gives information about the nutritions your body needs. This study gathers all these information together to help you find all of them in one app and search them easily even when you are offline and curious about your health.
 
-<span style='color: green'>**Please Note:**</span> I am not a doctor. I am just a `curious programmer` who is interested in how body reacts to what it consumes. The information below is brought to you by my research in different websites and the links to those websites are also available.
+<font color="green">**Please Note:**</font> I am not a doctor. I am just a `curious programmer` who is interested in how body reacts to what it consumes. The information below is brought to you by my research in different websites and the links to those websites are also available.
 
 # Table of content
 1. [Vitamins](#vitamins)
