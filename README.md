@@ -50,7 +50,9 @@ This vitamin is important for `Normal Vision`, `Immune system` and `Reproduction
 
 **Ok, So how much do we need daily?**
 The amount to consume is dependant on our `age` and our `sex`. The average of daily use is brought to the following table.
+
 **Note #1:** This table is a comparison between to sources of study for accuracy.
+
 **Note #2:**  This table is just the result of a study of studies. If you believe you or anyone who you are reading this for, have deficiency of Vitamin A it is better to visit a `Nutritionist`.
 <table style="width: 100%">
     <thead>
@@ -106,6 +108,9 @@ The amount to consume is dependant on our `age` and our `sex`. The average of da
         </tr>
     </tbody>
 </table>
+
+**Natural sources of Vitamin A:**
+
 
 ### Vitamin D
 ### Vitamin E
