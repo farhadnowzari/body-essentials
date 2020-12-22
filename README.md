@@ -113,6 +113,7 @@ The amount to consume is dependant on our `age` and our `sex`. The average of da
 
 
 ### Vitamin D
+Vitamin D is good
 ### Vitamin E
 ### Vitamin K
 ## Water soluble vitamins
